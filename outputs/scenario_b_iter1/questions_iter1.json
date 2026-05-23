@@ -1,0 +1,152 @@
+{
+  "session_id": 1,
+  "sections": [
+    5,
+    8
+  ],
+  "weak_topics_used": [],
+  "total_questions": 10,
+  "correct": 1,
+  "questions": [
+    {
+      "question": "When was the Doctrine of Sequential Suspension articulated by the asset?",
+      "choices": [
+        "A) 19 June 2021",
+        "B) 19 June 2022",
+        "C) 19 June 2023",
+        "D) 19 June 2024"
+      ],
+      "correct_answer": "B) 19 June 2022",
+      "explanation": "The Doctrine of Sequential Suspension was articulated by the asset on 19 June 2022 in the aftermath of the Mendoza Pyrrhic engagement.",
+      "section_id": 5,
+      "user_answer": "D) 19 June 2024",
+      "is_correct": 0
+    },
+    {
+      "question": "What is the maximum number of activations per 60-second window according to the Three-Two-One Rule?",
+      "choices": [
+        "A) 2",
+        "B) 3",
+        "C) 4",
+        "D) 5"
+      ],
+      "correct_answer": "B) 3",
+      "explanation": "The Three-Two-One Rule states that the maximum number of activations per 60-second window is three.",
+      "section_id": 5,
+      "user_answer": "A) 2",
+      "is_correct": 0
+    },
+    {
+      "question": "What is required for Tier 5 threat engagement?",
+      "choices": [
+        "A) Solo operation",
+        "B) Cell operation with lead authority",
+        "C) Cell + auxiliary cell with Director's authorization",
+        "D) Solo operation with full authority"
+      ],
+      "correct_answer": "C) Cell + auxiliary cell with Director's authorization",
+      "explanation": "For Tier 5 threats, engagement requires Cell + auxiliary cell with Director's authorization.",
+      "section_id": 5,
+      "user_answer": "B) Cell operation with lead authority",
+      "is_correct": 0
+    },
+    {
+      "question": "What is the result of the Tail-Strike Technique?",
+      "choices": [
+        "A) A strike delivered at reduced velocity",
+        "B) A strike delivered at full thrown velocity but from an arbitrary location",
+        "C) A strike delivered with increased momentum",
+        "D) A strike delivered with reduced momentum"
+      ],
+      "correct_answer": "B) A strike delivered at full thrown velocity but from an arbitrary location",
+      "explanation": "The Tail-Strike Technique delivers a strike at full thrown velocity but from an arbitrary, target-adjacent location.",
+      "section_id": 5,
+      "user_answer": "B) A strike delivered at full thrown velocity but from an arbitrary location",
+      "is_correct": 1
+    },
+    {
+      "question": "How many activations are allowed before reset according to the Doctrine of Sequential Suspension?",
+      "choices": [
+        "A) 2",
+        "B) 3",
+        "C) 4",
+        "D) 5"
+      ],
+      "correct_answer": "B) 3",
+      "explanation": "The Doctrine of Sequential Suspension states that the asset should withdraw before exhaustion, with three activations and reset.",
+      "section_id": 5,
+      "user_answer": "D) 5",
+      "is_correct": 0
+    },
+    {
+      "question": "What is the total floor area of Cuartel Valpara\u00edso?",
+      "choices": [
+        "A) 3,820 m\u00b2",
+        "B) 4,820 m\u00b2",
+        "C) 5,820 m\u00b2",
+        "D) 6,820 m\u00b2"
+      ],
+      "correct_answer": "B) 4,820 m\u00b2",
+      "explanation": "The total floor area is specified in the parameter table as 4,820 m\u00b2.",
+      "section_id": 8,
+      "user_answer": "A) 3,820 m\u00b2",
+      "is_correct": 0
+    },
+    {
+      "question": "What is the primary function of Edificio Marasol?",
+      "choices": [
+        "A) Field office",
+        "B) Logistics-only annex",
+        "C) PAMC Headquarters",
+        "D) Operational safehouse"
+      ],
+      "correct_answer": "C) PAMC Headquarters",
+      "explanation": "Edificio Marasol is listed as PAMC Headquarters in the secondary bases table.",
+      "section_id": 8,
+      "user_answer": "D) Operational safehouse",
+      "is_correct": 0
+    },
+    {
+      "question": "How many micro-caches are maintained by the asset across the Andean cordillera?",
+      "choices": [
+        "A) 10",
+        "B) 15",
+        "C) 19",
+        "D) 25"
+      ],
+      "correct_answer": "C) 19",
+      "explanation": "The text states that the asset maintains a network of 19 micro-caches.",
+      "section_id": 8,
+      "user_answer": "B) 15",
+      "is_correct": 0
+    },
+    {
+      "question": "What is the capacity of the vehicle bay at Cuartel Valpara\u00edso?",
+      "choices": [
+        "A) 8 spaces",
+        "B) 10 spaces",
+        "C) 12 spaces",
+        "D) 15 spaces"
+      ],
+      "correct_answer": "C) 12 spaces",
+      "explanation": "The parameter table lists the vehicle bay capacity as 12 spaces.",
+      "section_id": 8,
+      "user_answer": "B) 10 spaces",
+      "is_correct": 0
+    },
+    {
+      "question": "How often are cache locations rotated?",
+      "choices": [
+        "A) Every 12 months",
+        "B) Every 24 months",
+        "C) Every 36 months",
+        "D) Every 48 months"
+      ],
+      "correct_answer": "C) Every 36 months",
+      "explanation": "The text states that cache locations are rotated every 36 months.",
+      "section_id": 8,
+      "user_answer": "D) Every 48 months",
+      "is_correct": 0
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "session_id": 2,
+  "sections": [
+    6,
+    8,
+    9
+  ],
+  "weak_topics_used": [
+    {
+      "question": "When was the Doctrine of Sequential Suspension articulated by the asset?",
+      "correct_answer": "B) 19 June 2022",
+      "wrong_count": 1
+    },
+    {
+      "question": "What is the total floor area of Cuartel Valpara\u00edso?",
+      "correct_answer": "B) 4,820 m\u00b2",
+      "wrong_count": 1
+    },
+    {
+      "question": "What is the primary function of Edificio Marasol?",
+      "correct_answer": "C) PAMC Headquarters",
+      "wrong_count": 1
+    },
+    {
+      "question": "What is the maximum number of activations per 60-second window according to the Three-Two-One Rule?",
+      "correct_answer": "B) 3",
+      "wrong_count": 1
+    },
+    {
+      "question": "What is the capacity of the vehicle bay at Cuartel Valpara\u00edso?",
+      "correct_answer": "C) 12 spaces",
+      "wrong_count": 1
+    }
+  ],
+  "total_questions": 15,
+  "correct": 7,
+  "questions": [
+    {
+      "question": "What is the address of the headquarters of the Pan-American Metahuman Cooperative?",
+      "choices": [
+        "A) Avenida Salaverry 1841, Lima",
+        "B) Avenida Salaverry 1840, Lima",
+        "C) Edificio Marasol, Avenida Salaverry 1839, Lima",
+        "D) Edificio Marasol, Avenida Salaverry 1842, Lima"
+      ],
+      "correct_answer": "B) Avenida Salaverry 1840, Lima",
+      "explanation": "The address is mentioned in the text as Edificio Marasol, Avenida Salaverry 1840, Lima.",
+      "section_id": 6,
+      "user_answer": "B) Avenida Salaverry 1840, Lima",
+      "is_correct": 1
+    },
+    {
+      "question": "What is the metahuman classification of Lt. Sol\u00e8ne Bauer-Cortez?",
+      "choices": [
+        "A) Class A-1",
+        "B) Class B-2",
+        "C) Class C-1 (Electromagnetic Sensing)",
+        "D) Class D-3"
+      ],
+      "correct_answer": "C) Class C-1 (Electromagnetic Sensing)",
+      "explanation": "The text states that Lt. Sol\u00e8ne Bauer-Cortez has a metahuman classification of Class C-1, with the ability to perceive EM emissions.",
+      "section_id": 6,
+      "user_answer": "D) Class D-3",
+      "is_correct": 0
+    },
+    {
+      "question": "How many operations has Cell Halc\u00f3n logged as a complete unit through 31 December 2025?",
+      "choices": [
+        "A) 40 operations",
+        "B) 45 operations",
+        "C) 47 operations",
+        "D) 50 operations"
+      ],
+      "correct_answer": "C) 47 operations",
+      "explanation": "The text states that Cell Halc\u00f3n has logged 47 operations as a complete unit through 31 December 2025.",
+      "section_id": 6,
+      "user_answer": "C) 47 operations",
+      "is_correct": 1
+    },
+    {
+      "question": "What is the role of Cpl. Ra\u00fal Vendrame in Cell Halc\u00f3n?",
+      "choices": [
+        "A) Tracker / Recon",
+        "B) Technical Specialist",
+        "C) Field Medic",
+        "D) Lead Officer"
+      ],
+      "correct_answer": "C) Field Medic",
+      "explanation": "The text states that Cpl. Ra\u00fal Vendrame is the Field Medic in Cell Halc\u00f3n.",
+      "section_id": 6,
+      "user_answer": "C) Field Medic",
+      "is_correct": 1
+    },
+    {
+      "question": "What is the budget of the Pan-American Metahuman Cooperative for FY 2026?",
+      "choices": [
+        "A) USD $300 million",
+        "B) USD $350 million",
+        "C) USD $382 million",
+        "D) USD $400 million"
+      ],
+      "correct_answer": "C) USD $382 million",
+      "explanation": "The text states that the budget of the Pan-American Metahuman Cooperative for FY 2026 is USD $382 million.",
+      "section_id": 6,
+      "user_answer": "C) USD $382 million",
+      "is_correct": 1
+    },
+    {
+      "question": "What is the total floor area of Cuartel Valpara\u00edso?",
+      "choices": [
+        "A) 4,820 m\u00b2",
+        "B) 3,820 m\u00b2",
+        "C) 5,820 m\u00b2",
+        "D) 2,820 m\u00b2"
+      ],
+      "correct_answer": "A) 4,820 m\u00b2",
+      "explanation": "The total floor area is given in the parameter table for Cuartel Valpara\u00edso.",
+      "section_id": 8,
+      "user_answer": "D) 2,820 m\u00b2",
+      "is_correct": 0
+    },
+    {
+      "question": "What is the primary function of Edificio Marasol?",
+      "choices": [
+        "A) Field office",
+        "B) Logistics-only annex",
+        "C) PAMC Headquarters",
+        "D) Operational safehouse"
+      ],
+      "correct_answer": "C) PAMC Headquarters",
+      "explanation": "Edificio Marasol is listed as PAMC Headquarters in the secondary bases section.",
+      "section_id": 8,
+      "user_answer": "D) Operational safehouse",
+      "is_correct": 0
+    },
+    {
+      "question": "How many micro-caches does the asset maintain across the Andean cordillera?",
+      "choices": [
+        "A) 15",
+        "B) 19",
+        "C) 20",
+        "D) 22"
+      ],
+      "correct_answer": "B) 19",
+      "explanation": "The asset's micro-cache network consists of 19 caches distributed across the region.",
+      "section_id": 8,
+      "user_answer": "D) 22",
+      "is_correct": 0
+    },
+    {
+      "question": "What is the capacity of the vehicle bay at Cuartel Valpara\u00edso?",
+      "choices": [
+        "A) 10 spaces",
+        "B) 12 spaces",
+        "C) 8 spaces",
+        "D) 15 spaces"
+      ],
+      "correct_answer": "B) 12 spaces",
+      "explanation": "The vehicle bay capacity is listed in the parameter table for Cuartel Valpara\u00edso.",
+      "section_id": 8,
+      "user_answer": "C) 8 spaces",
+      "is_correct": 0
+    },
+    {
+      "question": "How often are the cache locations rotated in the micro-cache network?",
+      "choices": [
+        "A) Every 12 months",
+        "B) Every 24 months",
+        "C) Every 36 months",
+        "D) Every 48 months"
+      ],
+      "correct_answer": "C) Every 36 months",
+      "explanation": "Cache locations are rotated every 36 months, with the current placements finalized in 2024.",
+      "section_id": 8,
+      "user_answer": "C) Every 36 months",
+      "is_correct": 1
+    },
+    {
+      "question": "In what year was the Doctrine of Sequential Suspension formally articulated?",
+      "choices": [
+        "A) 2019",
+        "B) 2020",
+        "C) 2022",
+        "D) 2023"
+      ],
+      "correct_answer": "C) 2022",
+      "explanation": "The Doctrine of Sequential Suspension was articulated during Case 2022-0123. This case triggered the formal articulation of the doctrine.",
+      "section_id": 9,
+      "user_answer": "A) 2019",
+      "is_correct": 0
+    },
+    {
+      "question": "What was the outcome of Case 2020-0048: Antofagasta Containment?",
+      "choices": [
+        "A) Pyrrhic",
+        "B) Successful, with no operative injury",
+        "C) Successful, with operative injury",
+        "D) Inconclusive"
+      ],
+      "correct_answer": "C) Successful, with operative injury",
+      "explanation": "The outcome of Case 2020-0048 was Successful, with operative injury, as one operative suffered a 14-day medical leave.",
+      "section_id": 9,
+      "user_answer": "D) Inconclusive",
+      "is_correct": 0
+    },
+    {
+      "question": "What was the result of the engagement with Tropopausa in Case 2022-0123?",
+      "choices": [
+        "A) Tropopausa was killed",
+        "B) Tropopausa was captured",
+        "C) Tropopausa contained but escaped after 8 hours",
+        "D) Tropopausa was not engaged"
+      ],
+      "correct_answer": "C) Tropopausa contained but escaped after 8 hours",
+      "explanation": "In Case 2022-0123, Tropopausa was contained but escaped after 8 hours.",
+      "section_id": 9,
+      "user_answer": "C) Tropopausa contained but escaped after 8 hours",
+      "is_correct": 1
+    },
+    {
+      "question": "What was the location of Case 2023-0067: El Sereno Pursuit?",
+      "choices": [
+        "A) Antofagasta, Chile",
+        "B) Iquique, Tarapac\u00e1 Region, Chile",
+        "C) Mendoza, Argentina",
+        "D) Atacama Desert, Chile"
+      ],
+      "correct_answer": "B) Iquique, Tarapac\u00e1 Region, Chile",
+      "explanation": "Case 2023-0067 took place in Iquique, Tarapac\u00e1 Region, Chile.",
+      "section_id": 9,
+      "user_answer": "B) Iquique, Tarapac\u00e1 Region, Chile",
+      "is_correct": 1
+    },
+    {
+      "question": "How many Concession affiliates were captured in Case 2024-0034: Tarapac\u00e1 Concession Raid?",
+      "choices": [
+        "A) 10",
+        "B) 12",
+        "C) 14",
+        "D) 16"
+      ],
+      "correct_answer": "C) 14",
+      "explanation": "In Case 2024-0034, 14 Concession affiliates were captured.",
+      "section_id": 9,
+      "user_answer": "A) 10",
+      "is_correct": 0
+    }
+  ]
+}

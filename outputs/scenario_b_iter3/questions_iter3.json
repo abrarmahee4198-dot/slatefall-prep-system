@@ -1,0 +1,107 @@
+{
+  "session_id": 3,
+  "sections": [
+    8
+  ],
+  "weak_topics_used": [
+    {
+      "question": "What is the total floor area of Cuartel Valpara\u00edso?",
+      "correct_answer": "B) 4,820 m\u00b2",
+      "wrong_count": 2
+    },
+    {
+      "question": "What is the primary function of Edificio Marasol?",
+      "correct_answer": "C) PAMC Headquarters",
+      "wrong_count": 2
+    },
+    {
+      "question": "What is the capacity of the vehicle bay at Cuartel Valpara\u00edso?",
+      "correct_answer": "C) 12 spaces",
+      "wrong_count": 2
+    },
+    {
+      "question": "When was the Doctrine of Sequential Suspension articulated by the asset?",
+      "correct_answer": "B) 19 June 2022",
+      "wrong_count": 1
+    },
+    {
+      "question": "What was the outcome of Case 2020-0048: Antofagasta Containment?",
+      "correct_answer": "C) Successful, with operative injury",
+      "wrong_count": 1
+    }
+  ],
+  "total_questions": 5,
+  "correct": 4,
+  "questions": [
+    {
+      "question": "What is the total floor area of Cuartel Valpara\u00edso?",
+      "choices": [
+        "A) 4,820 m\u00b2",
+        "B) 3,820 m\u00b2",
+        "C) 5,820 m\u00b2",
+        "D) 6,820 m\u00b2"
+      ],
+      "correct_answer": "A) 4,820 m\u00b2",
+      "explanation": "The total floor area is given as 4,820 m\u00b2 in the text.",
+      "section_id": 8,
+      "user_answer": "B) 3,820 m\u00b2",
+      "is_correct": 0
+    },
+    {
+      "question": "What is the primary function of Edificio Marasol?",
+      "choices": [
+        "A) Field office",
+        "B) Logistics-only annex",
+        "C) PAMC Headquarters",
+        "D) Operational safehouse"
+      ],
+      "correct_answer": "C) PAMC Headquarters",
+      "explanation": "Edificio Marasol serves as the PAMC Headquarters according to the text.",
+      "section_id": 8,
+      "user_answer": "C) PAMC Headquarters",
+      "is_correct": 1
+    },
+    {
+      "question": "How many vehicle spaces are available at Cuartel Valpara\u00edso?",
+      "choices": [
+        "A) 10 spaces",
+        "B) 12 spaces",
+        "C) 8 spaces",
+        "D) 15 spaces"
+      ],
+      "correct_answer": "B) 12 spaces",
+      "explanation": "The vehicle bay at Cuartel Valpara\u00edso has 12 spaces, including 1 armored bay.",
+      "section_id": 8,
+      "user_answer": "B) 12 spaces",
+      "is_correct": 1
+    },
+    {
+      "question": "What is the outcome of Case 2020-0048 not mentioned in this section, but what was the status of Safehouse S-4 in 2024?",
+      "choices": [
+        "A) Active",
+        "B) Under construction",
+        "C) Active, rebuilt after damage",
+        "D) Abandoned"
+      ],
+      "correct_answer": "C) Active, rebuilt after damage",
+      "explanation": "Safehouse S-4 was active in 2024, having been rebuilt after damage.",
+      "section_id": 8,
+      "user_answer": "C) Active, rebuilt after damage",
+      "is_correct": 1
+    },
+    {
+      "question": "How often are cache locations rotated in the micro-cache network?",
+      "choices": [
+        "A) Every 12 months",
+        "B) Every 24 months",
+        "C) Every 36 months",
+        "D) Every 48 months"
+      ],
+      "correct_answer": "C) Every 36 months",
+      "explanation": "Cache locations are rotated every 36 months, with the current placements finalized in 2024.",
+      "section_id": 8,
+      "user_answer": "C) Every 36 months",
+      "is_correct": 1
+    }
+  ]
+}
