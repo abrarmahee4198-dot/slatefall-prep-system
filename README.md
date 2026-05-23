@@ -11,14 +11,9 @@ tracks performance, and adapts questions to weak areas.
 4. Create .env file with GROQ_API_KEY=key
 5. Place SLATEFALL_DOSSIER.pdf in root folder
 
-## Run
-
-Start server:
+## Run:
+Start server:Run the command bellow
 uvicorn main:app --reload
-
-Open index.html in browser.
-
-## Scenario B
-
+## Scenario B: Run these commands bellow
 del DB.db
 python scenario_b.py
