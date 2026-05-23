@@ -19,3 +19,13 @@ uvicorn main:app --reload
 del DB.db
 
 python scenario_b.py
+
+## Additional Documentation
+
+**System_Working_Procedure.txt** — step by step explanation of 
+how each file works, what methods they have, and how data flows 
+through the system.
+
+**My_Choices_and_Thinking.txt** — explains every technical 
+decision made during the project and the reasoning behind each 
+choice.
