@@ -1,7 +1,7 @@
 import json
 import os
 import random
-from pdf_perser import get_section_by_id
+from pdf_parser import get_section_by_id
 from database import init_db,save_session,get_weak_topics,get_kb_snapshot
 from llm_service import generate_mcqs
 

@@ -2,7 +2,7 @@ from fastapi import FastAPI,HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 
-from pdf_perser import get_all_sections,get_section_by_id,get_section_list
+from pdf_parser import get_all_sections,get_section_by_id,get_section_list
 from database import init_db,save_session,get_weak_topics,get_kb_snapshot,get_session_questions
 from llm_service import generate_mcqs
 

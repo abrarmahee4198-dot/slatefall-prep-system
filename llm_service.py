@@ -80,7 +80,7 @@ Format exactly like this:
     return questions
 
 if __name__=="__main__":
-    from pdf_perser import get_section_by_id
+    from pdf_parser import get_section_by_id
     section=get_section_by_id(1)
     if not section:
         print("sec1: not found")
