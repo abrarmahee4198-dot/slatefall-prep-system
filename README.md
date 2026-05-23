@@ -22,7 +22,7 @@ python scenario_b.py
 
 ## Additional Documentation
 
-**System_Architecture.pdf** — Diagrams and explanation on how the system works(very nicely explained for reviewer to check)
+**System_Architecture.pdf** — Diagrams and explanation on how the system works.
 
 **My_Choices_and_Thinking.txt** — explains every technical 
 decision made during the project and the reasoning behind each 
