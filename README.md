@@ -8,7 +8,7 @@ tracks performance, and adapts questions to weak areas.
 1. Clone repo
 2. Create venv and activate it
 3. Run pip install -r requirements.txt
-4. Create .env file with GROQ_API_KEY=your_key
+4. Create .env file with GROQ_API_KEY=key
 5. Place SLATEFALL_DOSSIER.pdf in root folder
 
 ## Run
