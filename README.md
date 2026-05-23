@@ -13,6 +13,7 @@ tracks performance, and adapts questions to weak areas.
 
 ## Run:
 Start server:Run the command bellow
+
 uvicorn main:app --reload
 ## Scenario B: Run these commands bellow
 del DB.db
