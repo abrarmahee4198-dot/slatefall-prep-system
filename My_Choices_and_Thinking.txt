@@ -1,0 +1,44 @@
+LLM Choice — Groq instead of Gemini
+-------------------------------------
+Originally tried Gemini Flash free tier which returned a quota
+error because free tier is blocked in Bangladesh. Then Switched to Groq
+which is completely free and had zero setup issues.
+
+Database Choice — SQLite instead of MySQL
+------------------------------------------
+I know MySQL well from prior PHP experience. But SQLite made
+more sense here because:
+- Reviewer needs zero installation to run the project
+- No server to start, no credentials to configure
+- Database is just one file (DB.db) in the project folder
+- SQL syntax is identical so my MySQL knowledge transferred
+- Assessment says setup must take under 10 minutes — SQLite
+  makes that possible, MySQL does not
+
+Backend Choice — FastAPI instead of pure Python
+------------------------------------------------
+Assessment suggested FastAPI. I had never used it before and
+learned it from scratch during this project. Chose it because:
+- Automatic documentation at /docs for reviewer to test
+- Clean and readable endpoint structure
+- Very similar to plain Python functions, easy to learn quickly
+
+Adaptive Logic Design Decision
+--------------------------------
+Initial version of get_weak_topics() only looked at wrong
+answers from the specific sections being studied. This caused
+iteration 2 to show 0 weak topics even though iteration 1 had
+wrong answers — because the sections were different (5,8 vs 6,8,9).
+
+Fixed by removing the section filter entirely. Now get_weak_topics()
+looks at ALL previous wrong answers regardless of section. This
+means iteration 2 correctly learns from iteration 1's mistakes
+even when sections differ. This is the core adaptive intelligence.
+
+Simulation Design Decision
+---------------------------
+scenario_b.py simulates user answers randomly. Set to 50/50
+correct/wrong ratio deliberately — if too many correct answers
+there are no weak topics for the next iteration to adapt from.
+50/50 ensures weak topics are always generated for adaptation
+to demonstrate correctly.
