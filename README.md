@@ -20,6 +20,10 @@ del DB.db
 
 python scenario_b.py
 
+## Also built a basic frontend because the deadline extended
+To run frontend first start the server: uvicorn main:app --reload
+Then open index.html in browser
+
 ## Additional Documentation
 
 **System_Architecture.pdf** — Diagrams and explanation on how the system works.
